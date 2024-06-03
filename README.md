@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack from senegal</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlNWpydjlkcDZmbGp0aGoxczNsYmV3YWQxcGtkN2NqZXo0OWxtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcQKkaiJVdcHEy9ImA/giphy.webp" alt="GIF animé" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1kamhrb2swdmEyejZlcWVlamcwN242N29oM2h0ZGhrZDh5cXBtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukMiDlCmdv2og/giphy.webp" alt="GIF animé" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
