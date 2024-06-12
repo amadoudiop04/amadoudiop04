@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Forum,Hackathon**
+- 🔭 I’m currently working on **Forum, Hackathon**
 
-- 🌱 I’m currently learning **Golang,java;javascript,node.js,react,tailwind,angular**
+- 🌱 I’m currently learning **Golang, Java; Javascript, Node.js, react, Tailwind, Angular**
 
 - 📫 How to reach me **amadoudiop.04@outlook.fr**
 
@@ -25,5 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadoudiop04&show_icons=true&locale=en&layout=compact" alt="amadoudiop04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amadoudiop04&show_icons=true&locale=en" alt="amadoudiop04" /></p>
-- <p>you can view my portfolio here: **https://main--amadou-diopmyportfolio.netlify.app/** </p>
+<p>you can view my portfolio here: **https://main--amadou-diopmyportfolio.netlify.app/** </p>
 
