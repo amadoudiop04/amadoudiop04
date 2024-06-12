@@ -25,4 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadoudiop04&show_icons=true&locale=en&layout=compact" alt="amadoudiop04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amadoudiop04&show_icons=true&locale=en" alt="amadoudiop04" /></p>
+- <p>you can view my portfolio here: **https://main--amadou-diopmyportfolio.netlify.app/** </p>
 
